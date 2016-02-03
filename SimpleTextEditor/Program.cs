@@ -1,6 +1,6 @@
 using System;
 using Gtk;
-
+// https://github.com/marcglx/SimpleTextEditor.git
 namespace SimpleTextEditor
 {
 	class MainClass
